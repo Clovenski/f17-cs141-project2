@@ -53,7 +53,7 @@ public class UserInterface {
 		System.out.println("Hello and welcome to TEN STEPS TO ESCAPE THE DUNGEON."
 				+ "\n\tby: Joel Tengco\n");
 		
-		System.out.println("You wake up in a dark dungeon and realize you need to get out. You see what it looks like to be a door in the vicinity. "
+		System.out.println("You wake up in a dark dungeon and realize you need to get out. You see what looks like to be a door in the vicinity. "
 							+ "\nIt seems to be 10 steps away from you. You hear ominous noises around you in the dark. You are quick to reach for "
 							+ "a weapon on the ground. \nWhat weapon should you reach for?\n");
 		setUpGame();
